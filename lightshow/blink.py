@@ -1,6 +1,6 @@
 import machine, neopixel, time
 
-# defines `np`, pin the led is on = 16, number of leds = 1
+# pin the led is on = 16, number of leds = 1
 np = neopixel.NeoPixel(machine.Pin(16), 1)
 
 diddlydoobalobby = 1
