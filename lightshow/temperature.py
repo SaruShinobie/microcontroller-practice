@@ -1,0 +1,1 @@
+# ugh. damn aliexpress and their damn sellers not publishing their damn pinouts
