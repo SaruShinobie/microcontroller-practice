@@ -3,6 +3,8 @@ import machine, neopixel, time
 # defines `np`, pin the led is on = 16, number of leds = 1
 np = neopixel.NeoPixel(machine.Pin(16), 1)
 
+# comment so i can test commit auth
+
 diddlydoobalooby = 1
 while diddlydoobalooby > 0:
     np[0] = (75, 0, 0)
